@@ -7,7 +7,7 @@
 #
 #   http://r-pkgs.had.co.nz/
 #
-# Some useful keyboard shortcuts for package authoring:
+# Some useful keyboard shortcuts for package autoring:
 #
 #   Install Package:           'Cmd + Shift + B'
 #   Check Package:             'Cmd + Shift + E'
@@ -16,3 +16,5 @@
 hello <- function() {
   print("Hello, world!")
 }
+
+prin("a")
