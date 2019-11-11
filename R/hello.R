@@ -18,3 +18,4 @@ hello <- function() {
 }
 
 usethis::use_github()
+usethis::use_github()
