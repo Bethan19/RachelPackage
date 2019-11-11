@@ -17,4 +17,4 @@ hello <- function() {
   print("Hello, world!")
 }
 
-prin("a")
+usethis::use_github()
